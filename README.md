@@ -1,5 +1,5 @@
 # Python 3 parte 1: Trabalhando com a nova versão da linguagem.
-## Curso Alura.
+## Alura Cursos Online.
 
 Nesse curso desenvolvemos um pequeno jogo de adivinhação para aprendermos alguns conceitos da linguagem e reforçar nossa lógica. Dentre estes conceitos, posso citar:
 - Função print e variáveis;
